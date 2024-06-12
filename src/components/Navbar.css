@@ -1,0 +1,9 @@
+.bigger-screen {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .bigger-screen {
+    display: flex;
+  }
+}
