@@ -1,0 +1,11 @@
+.icons {
+  position: absolute;
+  left: 0;
+  top: 3rem;
+  z-index: 20;
+  padding: 1rem;
+  border-radius: 0.375rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  background-color: #ffffff;
+}
