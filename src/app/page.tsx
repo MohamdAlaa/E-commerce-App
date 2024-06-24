@@ -1,11 +1,14 @@
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
+import Slider from "@/components/Slider";
 import Image from "next/image";
 
 export default function Home() {
   return (
     <>
-      <div className="">Hompe Page</div>
+      <div className="">
+        <Slider />
+      </div>
     </>
   );
 }
